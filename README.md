@@ -1,4 +1,4 @@
-# 📊 Forecasting Indonesia Tax Revenue (Time Series Analysis)
+# Forecasting Indonesia Tax Revenue (Time Series Analysis)
 
 ## Overview
 
